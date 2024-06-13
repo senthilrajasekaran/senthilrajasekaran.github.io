@@ -1,4 +1,6 @@
-
+---
+layout:home
+---
 <!DOCTYPE html>
 <html>
 <body>
