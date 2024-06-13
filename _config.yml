@@ -1,3 +1,9 @@
-url: https://senthilrajasekaran.github.io
-name : Senthil Rajasekaran
-theme : minima
+# Site settings
+title: Senthil Rajasekaran
+author:
+  name: Senthil Rajasekaran
+  email: sr79@rice.edu
+description: "Senthil Rajasekaran's Personal Website"
+
+# Build settings
+remote_theme: jekyll/minima
