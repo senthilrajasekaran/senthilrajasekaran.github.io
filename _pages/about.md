@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Senthil Rajasekaran"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
