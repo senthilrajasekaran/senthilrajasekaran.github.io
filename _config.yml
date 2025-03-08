@@ -22,7 +22,7 @@ repository               : "senthilrajasekaran/senthilrajasekaran.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Senthil Rajasekaran"
   pronouns         : # example: "she/her"  
   bio              : "Final Year PhD Student in the Rice Computer Science Department"
@@ -34,8 +34,6 @@ author:
   # Academic websites
   arxiv            : "https://arxiv.org/search/cs?query=Rajasekaran%2C+Senthil&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : "https://scholar.google.com/citations?user=NAz7IBwAAAAJ&hl=en"
-  dblp             : "https://dblp.org/pid/283/4411.html"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/scientific-contributions/Senthil-Rajasekaran-2187697040"
 
 
