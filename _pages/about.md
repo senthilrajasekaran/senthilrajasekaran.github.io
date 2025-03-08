@@ -13,6 +13,12 @@ More information about my research can be found on my [dblp](https://dblp.org/pi
 
 For a broad look at my research, check out [this talk I gave at the Simons Institute](https://www.youtube.com/watch?v=2RBoaPIrvQY) or [this news article](https://csweb.rice.edu/news/quantitative-goal-approach-game-theory-problem-could-be-important-building-block) from Rice CS News.
 
+Here are a couple of other relevant links:
+My [old blog](https://bogobogosort.wordpress.com), which contains some old programming projects and writeups.
+My [current github](https://github.com/senthilrajasekaran), which was created to host this website but also contains some of my recent work with puzzles.
+My [old github](https://github.com/pijel), which contains a lot of my old work.
+In general, I really like puzzles and hope to add a collection to this webpage soon! However, for now, I'll direct you to [this page](https://bogobogosort.wordpress.com/2018/06/27/puzzles-about-strategy/) from my old blog. There's lots of interesting stuff on there!
+
 Thank you for visiting my website!
 
 
