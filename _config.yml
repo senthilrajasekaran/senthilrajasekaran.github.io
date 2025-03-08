@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Senthil Rajasekaran"
 title_separator          : "-"
 name                     : &name "Senthil Rajasekaran"
-description              : &description "Final Year PhD Student in the Rice CS Department"
+description              : &description "Senthil Rajasekaran's Academic Website"
 url                      : https://senthilrajasekaran.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "senthilrajasekaran/senthilrajasekaran.github.io"
@@ -23,13 +23,13 @@ repository               : "senthilrajasekaran/senthilrajasekaran.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Senthil Rajasekaran"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Final Year PhD Student in the Rice Computer Science Department"
+  location         : "Houston, Texas"
+  employer         : "Rice University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sr79@rice.edu" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/cs?query=Rajasekaran%2C+Senthil&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
