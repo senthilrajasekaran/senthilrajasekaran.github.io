@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Senthil Rajasekaran, and I am a postdoc at Université Libre de Bruxelles, where I work with [Jean-François Raskin](https://verif.ulb.ac.be/jfr/){":target="_blank"}. I received my PhD in 2025 from Rice University, where I was supervised by [Moshe Vardi](https://profiles.rice.edu/faculty/moshe-y-vardi){:target="_blank"}. My research interests include multi-agent systems, game theory, complexity theory, automata theory, and, in general, theoretical computer science and mathematics.
+Hi! My name is Senthil Rajasekaran, and I am a postdoc at Université Libre de Bruxelles, where I work with [Jean-François Raskin](https://verif.ulb.ac.be/jfr/){:target="_blank"}. I received my PhD in 2025 from Rice University, where I was supervised by [Moshe Vardi](https://profiles.rice.edu/faculty/moshe-y-vardi){:target="_blank"}. My research interests include multi-agent systems, game theory, complexity theory, automata theory, and, in general, theoretical computer science and mathematics.
 
 More information about my research can be found on my [dblp](https://dblp.org/pid/283/4411.html){:target="_blank"} and my [Google Scholar](https://scholar.google.com/citations?user=NAz7IBwAAAAJ&hl=en){:target="_blank"}. If you're interested in reading my papers, check out this [arXiv listing](https://arxiv.org/search/cs?query=Rajasekaran%2C+Senthil&searchtype=author&abstracts=show&order=-announced_date_first&size=50){:target="_blank"}, though I only add papers to arXiv once they've already appeared in formal proceedings (with the exception of submissions with non-blind reviews). For some information about unpublished work or work in submission, take a look at my [CV](/files/Senthil_Rajasekaran_CV_2025.pdf){:target="_blank"}.
 
