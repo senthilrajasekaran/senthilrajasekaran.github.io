@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Senthil Rajasekaran"
   pronouns         : # example: "she/her"  
-  bio              : "Final Year PhD Student in the Rice Computer Science Department"
-  location         : "Houston, Texas"
-  employer         : "Rice University"
-  uri              : # URL
-  email            : "sr79@rice.edu" 
+  bio              : "Postdoc working with Jean-François Raskin"
+  location         : "Brussels, Belgium"
+  employer         : "Université Libre de Bruxelles"
+  uri              : "senthilrajasekaran.github.io"
+  email            : "senthil.rajasekaran@ulb.be" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/cs?query=Rajasekaran%2C+Senthil&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : "https://scholar.google.com/citations?user=NAz7IBwAAAAJ&hl=en"
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Senthil-Rajasekaran-2187697040"
+  researchgate     : "https://www.researchgate.net/profile/Senthil-Rajasekaran-3"
 
 
   # Repositories and software development
