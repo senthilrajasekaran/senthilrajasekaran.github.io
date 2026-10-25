@@ -9,15 +9,15 @@ redirect_from:
 
 Hi! My name is Senthil Rajasekaran, and I am a postdoc at Université Libre de Bruxelles, where I work with [Jean-François Raskin](https://verif.ulb.ac.be/jfr/){:target="_blank"}. I received my PhD in 2025 from Rice University, where I was supervised by [Moshe Vardi](https://profiles.rice.edu/faculty/moshe-y-vardi){:target="_blank"}. My research interests include multi-agent systems, game theory, complexity theory, automata theory, and, in general, theoretical computer science and mathematics.
 
-More information about my research can be found on my [dblp](https://dblp.org/pid/283/4411.html){:target="_blank"} and my [Google Scholar](https://scholar.google.com/citations?user=NAz7IBwAAAAJ&hl=en){:target="_blank"}. If you're interested in reading my papers, check out this [arXiv listing](https://arxiv.org/search/cs?query=Rajasekaran%2C+Senthil&searchtype=author&abstracts=show&order=-announced_date_first&size=50){:target="_blank"}, though I only add papers to arXiv once they've already appeared in formal proceedings (with the exception of submissions with non-blind reviews). For some information about unpublished work or work in submission, take a look at my [CV](/files/Senthil_Rajasekaran_CV_2025.pdf){:target="_blank"}.
+More information about my research can be found on my [dblp](https://dblp.org/pid/283/4411.html){:target="_blank"} and my [Google Scholar](https://scholar.google.com/citations?user=NAz7IBwAAAAJ&hl=en){:target="_blank"}. If you're interested in reading my papers, check out this [arXiv listing](https://arxiv.org/search/cs?query=Rajasekaran%2C+Senthil&searchtype=author&abstracts=show&order=-announced_date_first&size=50){:target="_blank"}, though I only add papers to arXiv once they've already appeared in formal proceedings (with the exception of submissions with non-blind reviews). For some information about unpublished work or work in submission, take a look at my [CV](/files/CV_2026.pdf){:target="_blank"}.
 
 For a broader look at my research, check out [this talk I gave at the Simons Institute](https://www.youtube.com/watch?v=2RBoaPIrvQY){:target="_blank"} or [this news article](https://csweb.rice.edu/news/quantitative-goal-approach-game-theory-problem-could-be-important-building-block){:target="_blank"} from Rice CS News. You can also check out the very first conference talk I ever gave [here.](https://underline.io/lecture/15415-nash-equilibria-in-finite-horizon-multiagent-concurrent-games){:target="_blank"}
 
 Here are a couple of other relevant links:
-My [old blog](https://bogobogosort.wordpress.com){:target="_blank"}, which contains some old programming projects and writeups.
+My [blog](https://bogobogosort.wordpress.com){:target="_blank"}, which contains some old programming projects and writeups. It's recently been resurrected, so check it out!
 My [current github](https://github.com/senthilrajasekaran){:target="_blank"}, which was created to host this website but also contains some of my recent work with puzzles.
 My [old github](https://github.com/pijel){:target="_blank"}, which contains a lot of my old work.
-In general, I really like puzzles and hope to add a collection to this webpage soon! However, for now, I'll direct you to [this page](https://bogobogosort.wordpress.com/2018/06/27/puzzles-about-strategy/){:target="_blank"} from my old blog. There's lots of interesting stuff on there!
+In general, I really like puzzles and hope to add a collection to this webpage soon! However, for now, I'll direct you to [this page](https://bogobogosort.wordpress.com/2018/06/27/puzzles-about-strategy/){:target="_blank"} from my (no longer) old blog. There's lots of interesting stuff on there!
 
 Thank you for visiting my website!
 
